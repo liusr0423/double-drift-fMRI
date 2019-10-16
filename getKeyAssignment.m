@@ -1,0 +1,1 @@
+function getKeyAssignment%% get key assignmentglobal keys design% Target keys for responsekeys.upKey = KbName('UpArrow');keys.downKey = KbName('DownArrow');keys.space = KbName('Space');FlushEvents('keyDown');
